@@ -9,20 +9,30 @@ This project performs Exploratory Data Analysis(EDA)on the titanic dataset to un
 
 FEATURES:
 -Data loading and preprocessing
--Handling missing values 
+
+-Handling missing values
+
 -Dataset exploration
--Statistical summary of data 
--Data visualization using graphs 
+
+-Statistical summary of data
+
+-Data visualization using graphs
+
 -Survival analysis based on gender , age, and passenger class
 
 
 
 TECHNNOLOGIES USED:
 -Python
+
 -Google colab
+
 -Pandas
+
 -Numpy
+
 -Matplotlib
+
 -Seaborn
 
 
