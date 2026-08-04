@@ -39,27 +39,39 @@ TECHNNOLOGIES USED:
 
 HOW TO RUN :
 1.Clone or download this respository
+
 2.Open the notebook("codealpha_EDA_Visualization.ipynb")in google colab or jupyter notebook
-3.Install the required libraries if needed:....pip install pandas numoy matplotlib seaborn 
+
+3.Install the required libraries if needed:....pip install pandas numoy matplotlib seaborn
+
 4.Upload the :"Titanic.csv" dataset
+
 5.Run all the notebook cells to view the analysis and visualization
 
 
 
 SAMPLE OUTPUTS :
 -Dataset information
+
 -Missing values summary
--Survival count plot 
+
+-Survival count plot
+
 -Passenger class distribution
+
 -Age distribution histogram 
+
 -Correlation heatmap
 
 
 
 PROJECT STRUCTURE:
 Titanic-EDA-Visualization
+
 codealpha_EDA_Visualization.ipynb
+
 titanic.csv
+
 README.md
 
 
